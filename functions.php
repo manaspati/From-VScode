@@ -18,4 +18,7 @@ add_action( 'admin_menu', 'remove_menus' );
 
 remove_action( 'welcome_panel', 'wp_welcome_panel' );
 
+
+echo "hello Github"
+
 ?>
